@@ -1,0 +1,24 @@
+body {
+    background: url("../images/background.jpg") no-repeat center center fixed;}
+
+.jumbotron {
+    background-color: #333;
+    background: url("../images/background.jpg")no-repeat center fixed;
+     }
+  
+  p.lead {
+    font-size: 2rem;
+  }
+
+.container-fluid {
+    background: url("../images/background.jpg") no-repeat center center fixed;}
+
+.container-fluid mt-4 {
+    background: url("../images/background.jpg") no-repeat center center fixed;
+    padding: 20px;
+
+}
+  /* body {
+  background: url("../images/background.jpg")  center;} */
+
+
