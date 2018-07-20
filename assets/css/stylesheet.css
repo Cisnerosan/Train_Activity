@@ -1,24 +1,27 @@
-body {
-    background: url("../images/background.jpg") no-repeat center center fixed;}
 
-.jumbotron {
-    background-color: #333;
-    background: url("../images/background.jpg")no-repeat center fixed;
-     }
-  
-  p.lead {
-    font-size: 2rem;
+.schedule-container {
+    min-width: 800px;
+}
+
+.input-container {
+    min-width: 800px;
+}
+
+body {
+       background: url('../images/background.jpg') no-repeat center center fixed;
+       -webkit-background-size: cover;
+       -moz-background-size: cover;
+       -o-background-size: cover;
+       background-size: cover;
   }
 
-.container-fluid {
-    background: url("../images/background.jpg") no-repeat center center fixed;}
-
-.container-fluid mt-4 {
-    background: url("../images/background.jpg") no-repeat center center fixed;
-    padding: 20px;
-
+table {
+    border-collapse: separate;
+    border-spacing: 6px;
 }
-  /* body {
-  background: url("../images/background.jpg")  center;} */
 
-
+.jumbotron {
+    color: white;
+    background-color: rgba(0,0,0,0.3);
+    min-width: 800px;
+}
